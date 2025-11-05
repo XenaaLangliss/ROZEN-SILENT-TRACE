@@ -1,7 +1,0 @@
-id=rozen_silent_trace
-name=Rozen Silent Trace
-version=v1.3
-author=@XenaaLangliss
-description=Disables Android and kernel tracing, reduces unnecessary background logging, and moves log-related processes to low-power CPU cores for better performance and battery efficiency.
-banner=https://raw.githubusercontent.com/XenaaLangliss/ROZEN-SILENT-TRACE/rozen_silent/502.jpeg
-updatejson=https://raw.githubusercontent.com/XenaaLangliss/ROZEN-SILENT-TRACE/rozen_silent/update.json
